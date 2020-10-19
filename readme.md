@@ -16,3 +16,9 @@ A few words about yourself <br>
 
 # Your changes start here:
 
+**Emon Hossain**
+
+- **Professional status:** Backend Developer
+- **Interests:** Web Development, Machine Learning, Micro Services and System Design
+- **Hobbies**: Reading, Volunteering, Travelling
+- **About myself:** Hello! I’m Emon Hossain. I develop web applications. My core skill is based on JavaScript and I love to do most the things using JavaScript. I am a passionate programmer, developer, and learner. I love to eat and coding. 
