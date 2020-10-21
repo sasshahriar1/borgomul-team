@@ -22,3 +22,10 @@ A few words about yourself <br>
 - **Interests:** Web Development, Machine Learning, Micro Services and System Design
 - **Hobbies**: Reading, Volunteering, Travelling
 - **About myself:** Hello! I’m Emon Hossain. I develop web applications. My core skill is based on JavaScript and I love to do most the things using JavaScript. I am a passionate programmer, developer, and learner. I love to eat and coding. 
+
+**Md Ahnaf Sadik Inan**
+
+- **Academic Status:** 2nd year, B.Sc Honours, Departement of Mathematics, University of Dhaka, Bangladesh.
+- **Interests:** Pure Mathematics, Web Development, CP, AI(Machine Learning, Deep Learning and Data Science), Game Development(Designing and coding)
+- **Hobbies:** Reading, Playing Guitar, Gaming, Browsing random topics (I don't go out too much!)
+- **About Myself:** Hi! I'm Md Ahnaf Sadik Inan. As you can see, I have a lot of interests but no professional experience. Mathematica peaked my interest into coding. But I think my base language is Python. For web development I can work with JavaScript. This year I got a bit good working with fortran and C. Actually I  think I can adopt into any language if needed and am always interested to learn new things. 
