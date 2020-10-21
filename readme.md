@@ -29,3 +29,9 @@ A few words about yourself <br>
 - **Interests:** Pure Mathematics, Web Development, CP, AI(Machine Learning, Deep Learning and Data Science), Game Development(Designing and coding)
 - **Hobbies:** Reading, Playing Guitar, Gaming, Browsing random topics (I don't go out too much!)
 - **About Myself:** Hi! I'm Md Ahnaf Sadik Inan. As you can see, I have a lot of interests but no professional experience. Mathematica peaked my interest into coding. But I think my base language is Python. For web development I can work with JavaScript. This year I got a bit good working with fortran and C. Actually I  think I can adopt into any language if needed and am always interested to learn new things. 
+
+**Shahriar Ahmed Shihab**
+-**Academic Status:** 2nd Year,B.Sc Honours,Department of Mathematics,University of Dhaka,Bangladesh.
+-**Interesets:** Software Developing,Data Structure,Web Development
+-**Hobbies:** Learning more about computer based things
+-**About MySelf:** Assalamualikum..Firstly Thanks to all for giving me a opportunity to join with you..After 5 or 10 years,I want to see me as a established and well-known person..I have interest to learn hacking,software developing but i have no guideline.Though I want to take this sector as a profession..Beside I want to have Some knowledge about web development.I have learnt many language Like HTML,CSS,JAVASCRIPT,C++,C,MySQL..I Have Completed Data Structure Course & started to learning vulnerabilities & machine learning.I think in this Sector we have to update knowledge.That's why I want to take it as a my profession.Jajakumullah
